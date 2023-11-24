@@ -30,3 +30,4 @@ add-migration NameOfMigration
 (can delete the old migration in the project by run Remove-Migration)
 update-database
 Note: If you want, you can import the BankTask_db SQL script.
+7.Run both AccountServiceApi and transactionService (blanksolution->right click->properties->multiple startup project (choose both and make action as start))
