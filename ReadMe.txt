@@ -2,8 +2,8 @@ ToDoList:
 1.Create a Blank Solution:
 Create a new blank solution that will house three projects: AccountService, TransactionService, and CommonModels.
 
-2.AccountService (ASP.NET Core MVC):
-Implement an ASP.NET Core MVC web application to manage user accounts.
+2.AccountServiceAPI (ASP.NET Core web api):
+Implement an ASP.NET Core web api  to manage user accounts.
 Utilize Entity Framework for database operations.
 Use Dependency Injection for communication between IRepository and Repository.
 Install necessary packages:
